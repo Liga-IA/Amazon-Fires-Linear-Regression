@@ -1,1 +1,1 @@
-# Amazon-Fires_Linear-Regression
+# Amazon-Fires-Linear-Regression
